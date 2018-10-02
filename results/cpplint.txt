@@ -1,0 +1,12 @@
+./app/main.cpp:0:  No copyright message found.  You should have a line: "Copyright [year] <Copyright Owner>"  [legal/copyright] [5]
+Done processing ./app/main.cpp
+./app/AnalogSensor.cpp:0:  No copyright message found.  You should have a line: "Copyright [year] <Copyright Owner>"  [legal/copyright] [5]
+Done processing ./app/AnalogSensor.cpp
+./test/main.cpp:0:  No copyright message found.  You should have a line: "Copyright [year] <Copyright Owner>"  [legal/copyright] [5]
+Done processing ./test/main.cpp
+./test/test.cpp:0:  No copyright message found.  You should have a line: "Copyright [year] <Copyright Owner>"  [legal/copyright] [5]
+Done processing ./test/test.cpp
+./include/AnalogSensor.hpp:0:  No copyright message found.  You should have a line: "Copyright [year] <Copyright Owner>"  [legal/copyright] [5]
+./include/AnalogSensor.hpp:7:  Single-parameter constructors should be marked explicit.  [runtime/explicit] [5]
+Done processing ./include/AnalogSensor.hpp
+Total errors found: 6
